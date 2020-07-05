@@ -96,7 +96,7 @@
   },
   "engineUrl":"http://engine:90/engine",
   "mlabDB": "mongodb://mongodb:27017",
-  "socketClient": "ws://localhost:15674/ws/",
+  "socketClient": "ws://10.144.0.26:15674/ws/",
   "amqpHost": "devLocal",
   "socketServer": "amqp://rabbitmq:5672",
   "secret": "secret",
